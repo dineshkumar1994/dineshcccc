@@ -1,0 +1,5 @@
+C:\Users\dines\Documents\Visual Studio 2013\Projects\hidden\Minimumrpetetion\bin\Debug\Minimumrpetetion.exe.config
+C:\Users\dines\Documents\Visual Studio 2013\Projects\hidden\Minimumrpetetion\bin\Debug\Minimumrpetetion.exe
+C:\Users\dines\Documents\Visual Studio 2013\Projects\hidden\Minimumrpetetion\bin\Debug\Minimumrpetetion.pdb
+C:\Users\dines\Documents\Visual Studio 2013\Projects\hidden\Minimumrpetetion\obj\Debug\Minimumrpetetion.exe
+C:\Users\dines\Documents\Visual Studio 2013\Projects\hidden\Minimumrpetetion\obj\Debug\Minimumrpetetion.pdb

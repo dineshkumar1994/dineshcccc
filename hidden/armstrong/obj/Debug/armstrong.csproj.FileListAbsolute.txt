@@ -1,0 +1,6 @@
+C:\Users\dines\Documents\Visual Studio 2013\Projects\hidden\armstrong\bin\Debug\armstrong.exe.config
+C:\Users\dines\Documents\Visual Studio 2013\Projects\hidden\armstrong\bin\Debug\armstrong.exe
+C:\Users\dines\Documents\Visual Studio 2013\Projects\hidden\armstrong\bin\Debug\armstrong.pdb
+C:\Users\dines\Documents\Visual Studio 2013\Projects\hidden\armstrong\obj\Debug\armstrong.csprojResolveAssemblyReference.cache
+C:\Users\dines\Documents\Visual Studio 2013\Projects\hidden\armstrong\obj\Debug\armstrong.exe
+C:\Users\dines\Documents\Visual Studio 2013\Projects\hidden\armstrong\obj\Debug\armstrong.pdb

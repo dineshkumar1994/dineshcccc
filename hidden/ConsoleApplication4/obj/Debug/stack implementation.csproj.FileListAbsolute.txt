@@ -1,0 +1,6 @@
+C:\Users\dines\Documents\Visual Studio 2013\Projects\hidden\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe.config
+C:\Users\dines\Documents\Visual Studio 2013\Projects\hidden\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe
+C:\Users\dines\Documents\Visual Studio 2013\Projects\hidden\ConsoleApplication4\bin\Debug\ConsoleApplication4.pdb
+C:\Users\dines\Documents\Visual Studio 2013\Projects\hidden\ConsoleApplication4\obj\Debug\stack implementation.csprojResolveAssemblyReference.cache
+C:\Users\dines\Documents\Visual Studio 2013\Projects\hidden\ConsoleApplication4\obj\Debug\ConsoleApplication4.exe
+C:\Users\dines\Documents\Visual Studio 2013\Projects\hidden\ConsoleApplication4\obj\Debug\ConsoleApplication4.pdb

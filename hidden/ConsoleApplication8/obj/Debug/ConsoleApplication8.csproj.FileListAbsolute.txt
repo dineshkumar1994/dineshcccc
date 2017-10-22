@@ -1,0 +1,5 @@
+C:\Users\dines\Documents\Visual Studio 2013\Projects\hidden\ConsoleApplication8\bin\Debug\ConsoleApplication8.exe.config
+C:\Users\dines\Documents\Visual Studio 2013\Projects\hidden\ConsoleApplication8\bin\Debug\ConsoleApplication8.exe
+C:\Users\dines\Documents\Visual Studio 2013\Projects\hidden\ConsoleApplication8\bin\Debug\ConsoleApplication8.pdb
+C:\Users\dines\Documents\Visual Studio 2013\Projects\hidden\ConsoleApplication8\obj\Debug\ConsoleApplication8.exe
+C:\Users\dines\Documents\Visual Studio 2013\Projects\hidden\ConsoleApplication8\obj\Debug\ConsoleApplication8.pdb

@@ -1,0 +1,6 @@
+C:\Users\dines\Documents\Visual Studio 2013\Projects\hidden\index problem\bin\Debug\index problem.exe.config
+C:\Users\dines\Documents\Visual Studio 2013\Projects\hidden\index problem\bin\Debug\index problem.exe
+C:\Users\dines\Documents\Visual Studio 2013\Projects\hidden\index problem\bin\Debug\index problem.pdb
+C:\Users\dines\Documents\Visual Studio 2013\Projects\hidden\index problem\obj\Debug\index problem.csprojResolveAssemblyReference.cache
+C:\Users\dines\Documents\Visual Studio 2013\Projects\hidden\index problem\obj\Debug\index problem.exe
+C:\Users\dines\Documents\Visual Studio 2013\Projects\hidden\index problem\obj\Debug\index problem.pdb

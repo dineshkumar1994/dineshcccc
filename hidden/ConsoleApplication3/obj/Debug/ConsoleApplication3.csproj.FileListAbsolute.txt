@@ -1,0 +1,5 @@
+C:\Users\dines\Documents\Visual Studio 2013\Projects\hidden\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+C:\Users\dines\Documents\Visual Studio 2013\Projects\hidden\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+C:\Users\dines\Documents\Visual Studio 2013\Projects\hidden\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+C:\Users\dines\Documents\Visual Studio 2013\Projects\hidden\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+C:\Users\dines\Documents\Visual Studio 2013\Projects\hidden\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb

@@ -1,0 +1,6 @@
+C:\Users\dines\Documents\Visual Studio 2013\Projects\hidden\words,numbers\obj\Debug\words,numbers.csprojResolveAssemblyReference.cache
+C:\Users\dines\Documents\Visual Studio 2013\Projects\hidden\words,numbers\bin\Debug\words,numbers.exe.config
+C:\Users\dines\Documents\Visual Studio 2013\Projects\hidden\words,numbers\bin\Debug\words,numbers.exe
+C:\Users\dines\Documents\Visual Studio 2013\Projects\hidden\words,numbers\bin\Debug\words,numbers.pdb
+C:\Users\dines\Documents\Visual Studio 2013\Projects\hidden\words,numbers\obj\Debug\words,numbers.exe
+C:\Users\dines\Documents\Visual Studio 2013\Projects\hidden\words,numbers\obj\Debug\words,numbers.pdb

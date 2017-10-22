@@ -1,0 +1,6 @@
+c:\Users\dines\documents\visual studio 2013\Projects\hidden\jollsjump\bin\Debug\jollsjump.exe.config
+c:\Users\dines\documents\visual studio 2013\Projects\hidden\jollsjump\bin\Debug\jollsjump.exe
+c:\Users\dines\documents\visual studio 2013\Projects\hidden\jollsjump\bin\Debug\jollsjump.pdb
+c:\Users\dines\documents\visual studio 2013\Projects\hidden\jollsjump\obj\Debug\jollsjump.exe
+c:\Users\dines\documents\visual studio 2013\Projects\hidden\jollsjump\obj\Debug\jollsjump.pdb
+C:\Users\dines\documents\visual studio 2013\Projects\hidden\jollsjump\obj\Debug\jollsjump.csprojResolveAssemblyReference.cache
